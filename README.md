@@ -1,6 +1,6 @@
 **Track-A-Worm (version 2.0)**
 
-Version 2 now comprises three components: WormTracker, SleepTracker, and Action Potential Analyzer. The WormTracker is an update of the original [Track-A-Worm]([url](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069653)), featuring substantial improvements in functionality. Below is a list of the major additions and enhancements:
+Version 2 now comprises three components: WormTracker, SleepTracker, and Action Potential Analyzer. The WormTracker is an update of the original [Track-A-Worm](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069653), featuring substantial improvements in functionality. Below is a list of the major additions and enhancements:
 
 1. Option to differentiate between ventral and dorsal sides.
 2. Implementation of image recording in greatly reduced file sizes (approximately 16.0 KB at 100% camera resolution and 4.0 KB at 50% camera resolution), thereby conserving storage 
@@ -11,3 +11,6 @@ Version 2 now comprises three components: WormTracker, SleepTracker, and Action 
 6. Option to integrate external devices (e.g. a light source for optogenetic stimulation) through TTL signals.
 7. Plotting of forward and backward locomotion profiles.
 8. Resolution of a significant bug in the original version, with no other bugs identified in the current version.
+
+For more details see the installation instructions [here](https://health.uconn.edu/worm-lab/track-a-worm/).
+
